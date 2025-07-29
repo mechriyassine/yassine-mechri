@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mishig25/mishig25/master/assets/gpt-ai-illustration.png" alt="AI Illustration" width="600"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Yassine Mechri</h1>
 <p align="center">
-  💻 Passionate about AI, Full-Stack Development, and DevOps<br>
+  💻 Passionate about Generative AI & Data science <br>
   🚀 Turning ideas into production-ready systems
 </p>
 
